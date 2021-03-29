@@ -96,7 +96,7 @@ JSON       17 mins         ▓░░░░░░░░░░░░░░░░�
 
 If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈  
 
-<a href="https://fuhao7i.github.io/sponsor.html" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://fuhao7i.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h2></h2>
 
