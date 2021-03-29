@@ -81,8 +81,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux"></code>
 
 
-
-**If you like what I do, maybe consider buying me a ☕ coffee/tea please 🥺👉👈**
+<br><br>
+**If you like what I do, maybe consider buying me a ☕ coffee or 🍵tea 🐽**
 
 <a href="https://fuhao7i.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
