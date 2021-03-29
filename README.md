@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   <a href="https://fuhao7i.com" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" width="30px"/>
   </a> 
-
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
