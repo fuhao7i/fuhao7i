@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 
 <br><br>
-**If you like what I do, maybe consider buying me a ☕ coffee or 🍵tea 🐽**
+**If you like what I do, maybe consider buying me a ☕ coffee**
 
 <a href="https://fuhao7i.com" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
